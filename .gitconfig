@@ -1,0 +1,8 @@
+[user]
+    name = Scott Wu
+    email = scott.wu.hjx@gmail.com
+
+[core]
+    editor = vim
+    autocrlf = input
+

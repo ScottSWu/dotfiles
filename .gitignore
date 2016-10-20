@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+!/bin
+!.bashrc
+!.gitconfig
+!.gitignore
+!.tmux.conf
+!.vimrc
+!.zshrc
+
